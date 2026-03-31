@@ -1,6 +1,6 @@
 # UniFi OS Server on Proxmox LXC
 
-> Tested with UniFi OS Server 5.0.6 on Debian 13 (Trixie) LXC, Proxmox VE 8.x.
+> Tested with UniFi OS Server 5.0.6 on Debian 13 (Trixie) LXC, Proxmox VE 9.1.6.
 
 ## Overview
 
